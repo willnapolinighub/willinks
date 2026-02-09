@@ -1,4 +1,4 @@
-# Will Napolini - Digital Creator Portfolio
+# Will Napolini - Digital Creator (Links) Portfolio
 
 A modern, minimalist personal landing page featuring glassmorphism design, multi-theme support, and direct links to video platforms and social media.
 

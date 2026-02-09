@@ -1,6 +1,8 @@
-# Will Napolini - Digital Creator Portfolio
+# Will Napolini - # 🔗 LinkBio - Modern Links in Bio Website
 
-A modern, minimalist personal landing page featuring glassmorphism design, multi-theme support, and direct links to video platforms and social media.
+> A beautiful, modern alternative to Linktree with glassmorphism design, smooth animations, and mobile-first approach.
+
+![LinkBio Preview]()
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Active-success)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)

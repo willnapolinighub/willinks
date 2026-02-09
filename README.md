@@ -2,7 +2,7 @@
 
 > A beautiful, modern alternative to Linktree with glassmorphism design, smooth animations, and mobile-first approach.
 
-![LinkBio Preview]()
+![LinkBio Preview](https://github.com/willnapolinighub/willinks/blob/main/assets/assets-will-napolini-linkbio-preview.png)
 
 ![Portfolio Preview](https://img.shields.io/badge/Status-Active-success)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)

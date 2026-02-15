@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Will Napolini - [@willnapolini](https://twitter.com/willnapolini)
 
-Project Link: [https://github.com/willnapolini/portfolio](https://github.com/willnapolini/portfolio)
+Project Link: [LinkBio](https://github.com/willnapolinighub/willinks)
 
 ---
 
